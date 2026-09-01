@@ -104,3 +104,8 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# .idea 무시
+/.idea/*
+# .vscode 무시
+/.vscode/*
